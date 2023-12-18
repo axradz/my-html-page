@@ -1,0 +1,21 @@
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>zizilezeub</title>
+</head>
+<body>
+
+<!-- Bouton avec Fonction -->
+<button onclick="maFonction()">Cliquez-moi</button>
+
+<!-- Script JavaScript -->
+<script>
+    // Fonction JavaScript
+    function maFonction() {
+        alert('Tu es gay !');
+        // Ajoutez ici le code que vous souhaitez exécuter lorsque le bouton est cliqué.
+    }
+</script>
+
+</body>
